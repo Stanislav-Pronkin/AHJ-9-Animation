@@ -3,3 +3,4 @@
 
 Collapse.
 
+Ссылка на GitHub Pages: https://stanislav-pronkin.github.io/AHJ-9-Animation/
